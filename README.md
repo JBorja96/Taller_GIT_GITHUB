@@ -4,5 +4,6 @@ Taller de Software Libre
 Ejemplo de creacion de una pagina README dentro del repositorio.
 # Construido con 🛠️
 _● Sistema Operativo Microsoft Windows_
+_Y repite_
 _● Git for windows https://git-scm.com/download/win_
 _● Sourcetree https://www.sourcetreeapp.com/_
